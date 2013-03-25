@@ -10,5 +10,6 @@
     "nez": "0.0.5",
     "should": "~1.2.2"
   },
+  "main": "lib/core",
   "repository": "git@github.com:nomilous/nezcore.git"
 }
