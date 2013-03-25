@@ -2,7 +2,13 @@
   "name": "nezcore",
   "description": "nez core components",
   "version": "0.0.1",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "inflection": "~1.2.5",
+    "wrench": "~1.4.4"
+  },
+  "devDependencies": {
+    "nez": "0.0.5",
+    "should": "~1.2.2"
+  },
   "repository": "git@github.com:nomilous/nezcore.git"
 }
